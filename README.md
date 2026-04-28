@@ -68,7 +68,7 @@ Upload to GitHub Pages for free hosting.
             color: #210039;
         }
 
-        /* Header & Navigation */
+      
         header {
             background-color: #3b023e;
             color: white;
@@ -101,7 +101,6 @@ Upload to GitHub Pages for free hosting.
             color: #ffffff;
         }
 
-        /* Sections */
         main {
             margin-top: 80px;
         }
@@ -116,7 +115,6 @@ Upload to GitHub Pages for free hosting.
             text-align: center;
         }
 
-        /* Projects */
         .project {
             background-color: #ffffff;
             padding: 15px;
@@ -124,7 +122,6 @@ Upload to GitHub Pages for free hosting.
             margin: 10px 0;
         }
 
-        /* Contact */
         #contact a {
             color: #177e7b;
             text-decoration: none;
@@ -134,7 +131,7 @@ Upload to GitHub Pages for free hosting.
             text-decoration: underline;
         }
 
-        /* Footer */
+    
         footer {
             text-align: center;
             padding: 10px;
@@ -144,7 +141,6 @@ Upload to GitHub Pages for free hosting.
             width: 100%;
         }
 
-        /* Responsive Design */
         @media (max-width: 768px) {
             nav ul {
                 flex-direction: column;
