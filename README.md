@@ -80,24 +80,24 @@ Upload to GitHub Pages for free hosting.
             left: 0;
             z-index: 1000;
         }
-        nav ul {
+         ul {
             list-style: none;
             display: flex;
             justify-content: center;
             gap: 20px;
             flex-wrap: wrap;
         }
-        nav ul li {
+         ul li {
             display: inline;
         }
-        nav ul li a {
+         ul li a {
             color: rgb(255, 255, 255);
             text-decoration: none;
             font-weight: bold;
             padding: 5px 10px;
             transition: color 0.3s;
         }
-        nav ul li a:hover {
+         ul li a:hover {
             color: #ffffff;
         }
 
